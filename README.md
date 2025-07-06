@@ -24,14 +24,21 @@
 
 ### Задание 1
 
-1) Дана схема для Cisco Packet Tracer, рассматриваемая в лекции.
-2) На данной схеме уже настроено отслеживание интерфейсов маршрутизаторов Gi0/1 (для нулевой группы)
-3) Необходимо аналогично настроить отслеживание состояния интерфейсов Gi0/0 (для первой группы).
-4) Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
-5) На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
+1) Запустите два simple python сервера на своей виртуальной машине на разных портах
+2) Установите и настройте HAProxy, воспользуйтесь материалами к лекции по ссылке
+3) Настройте балансировку Round-robin на 4 уровне.
+4) На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
-![Настройка конфигурации узлов и проверка](https://github.com/Nikich828/10_1_hw/blob/main/1.JPG)
 
+!(https://github.com/Nikich828/10_2hw/blob/master/1.jpeg)
+!(https://github.com/Nikich828/10_2hw/blob/master/2.jpeg)
+!(https://github.com/Nikich828/10_2hw/blob/master/3.jpeg)
+!(https://github.com/Nikich828/10_2hw/blob/master/4.jpeg)
+!(https://github.com/Nikich828/10_2hw/blob/master/5.jpeg)
+!(https://github.com/Nikich828/10_2hw/blob/master/6.jpeg)
+!(https://github.com/Nikich828/10_2hw/blob/master/7.jpeg)
+!(https://github.com/Nikich828/10_2hw/blob/master/8.jpeg)
+!(https://github.com/Nikich828/10_2hw/blob/master/9.jpeg)
 
 ### Задание 2
 
