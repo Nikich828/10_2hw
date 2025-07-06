@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Disaster recovery и Keepalived`" - `Лычагин Н.В.`
+# Домашнее задание к занятию "`Кластеризация и балансировка нагрузки`" - `Лычагин Н.В.`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -54,4 +54,4 @@
 ![alt text](https://github.com/Nikich828/10_2hw/blob/master/12.jpeg)
 ![alt text](https://github.com/Nikich828/10_2hw/blob/master/13.jpeg)
 ![alt text](https://github.com/Nikich828/10_2hw/blob/master/14.jpeg)
-![alt text](https://github.com/Nikich828/10_2hw/blob/master/15.jpeg))
+![alt text](https://github.com/Nikich828/10_2hw/blob/master/15.jpeg)
