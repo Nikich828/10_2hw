@@ -30,15 +30,15 @@
 4) На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
 
-!(https://github.com/Nikich828/10_2hw/blob/master/1.jpeg)
-!(https://github.com/Nikich828/10_2hw/blob/master/2.jpeg)
-!(https://github.com/Nikich828/10_2hw/blob/master/3.jpeg)
-!(https://github.com/Nikich828/10_2hw/blob/master/4.jpeg)
-!(https://github.com/Nikich828/10_2hw/blob/master/5.jpeg)
-!(https://github.com/Nikich828/10_2hw/blob/master/6.jpeg)
-!(https://github.com/Nikich828/10_2hw/blob/master/7.jpeg)
-!(https://github.com/Nikich828/10_2hw/blob/master/8.jpeg)
-!(https://github.com/Nikich828/10_2hw/blob/master/9.jpeg)
+![alt text](https://github.com/Nikich828/10_2hw/blob/master/1.jpeg)
+![alt text](https://github.com/Nikich828/10_2hw/blob/master/2.jpeg)
+![alt text](https://github.com/Nikich828/10_2hw/blob/master/3.jpeg)
+![alt text](https://github.com/Nikich828/10_2hw/blob/master/4.jpeg)
+![alt text](https://github.com/Nikich828/10_2hw/blob/master/5.jpeg)
+![alt text](https://github.com/Nikich828/10_2hw/blob/master/6.jpeg)
+![alt text](https://github.com/Nikich828/10_2hw/blob/master/7.jpeg)
+![alt text](https://github.com/Nikich828/10_2hw/blob/master/8.jpeg)
+![alt text](https://github.com/Nikich828/10_2hw/blob/master/9.jpeg)
 
 ### Задание 2
 
